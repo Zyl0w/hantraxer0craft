@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hantraxer0craft
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning html/css/Javascript
+- 🌱 I’m currently learning Discord.js
 - 📫 You can reach me on my discord : *Craft0X#9999*
 
 <!---
